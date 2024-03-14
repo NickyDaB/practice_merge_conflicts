@@ -1,6 +1,8 @@
 Hi class!
 
-My name is Wen.
+
+Our names are Wen and Nick.
+
 Our favorite numbers are 7 and 9001.
   
 This is my favorite class. 
