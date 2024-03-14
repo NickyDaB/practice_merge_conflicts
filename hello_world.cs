@@ -4,10 +4,18 @@ using UnityEngine;
 
 public class hello_world : MonoBehaviour
 {
+    //Variables
+    int result = 0;
+
     // Start is called before the first frame update
     void Start()
     {
         Debug.Log("Hello world!");
+    }
+
+    int AddNumbers(int number1, int number2)
+    {
+        return number1 + number2;
     }
 
 
