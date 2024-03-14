@@ -1,6 +1,6 @@
 Hi class!
 
-My name is Nick.
-My favorite number is 3.
+My name is Bob.
+My favorite number is 7.
   
 This is my favorite class. 
