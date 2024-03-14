@@ -1,6 +1,6 @@
 Hi class!
 
-My name is Sally.
-My favorite number is 9001.
+Our names are Sally and Bob.
+Our favorite numbers are 7 and 9001.
   
 This is my favorite class. 
